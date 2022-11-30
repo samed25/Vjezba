@@ -4,9 +4,8 @@ import (
 	"fmt"
 )
 
-func main(){
+func main() {
 
 	fmt.Println("nesto")
-	fmt.Println("Vahidin")
+	fmt.Println("ja ja")
 }
-
