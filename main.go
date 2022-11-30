@@ -7,6 +7,6 @@ import (
 func main(){
 
 	fmt.Println("nesto")
-	fmt.Println("Vahidin")
+	fmt.Println("nije vahidin")
 }
 
